@@ -5,4 +5,4 @@
 
 <p align="center">- 💪 Currently I am working on <b> nothing</b>  </p>
 
-<p align="center">- 💭 I'm trying to learn <b> how to cope with the voices in my head. </b> </p>
+<p align="center">- 💭 I'm trying to learn <b> how to stop hearing the voices </b> </p>
