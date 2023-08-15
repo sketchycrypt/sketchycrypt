@@ -1,5 +1,5 @@
 <h1 align="center">hi im sketchy</h1>
-<h3 align="center">a bad programmer from morocco</h3>
+<h3 align="center">a bad programmer</h3>
 
 <p align="center">- 💪 Currently I am working on <b> nothing</b>  </p>
 
