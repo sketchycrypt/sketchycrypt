@@ -8,3 +8,5 @@
 <p align="center">- ⚡️ My knowledge is <b>close to none</b> </p>
 
 <p align="center">- 🧠 My skills include <b>being a burden in group projects</b> </p>
+
+<p align="center">- ⏱️ My fastest made project is <b>actually hold on i dont know</b> </p>
